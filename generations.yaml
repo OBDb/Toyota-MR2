@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Toyota_MR2"
+
 generations:
   - name: "First Generation (W10)"
     start_year: 1984
